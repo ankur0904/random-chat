@@ -1,0 +1,18 @@
+.chat-item{
+    border-radius: 10px !important;
+    margin-bottom: 20px;
+    border-top-width: 1px !important;
+    width: 40%;
+}
+
+.left{  
+    margin-right: 50%;
+}
+
+.right{
+    margin-left: 50%;
+}
+
+.input-box{
+    width: 200px !important;
+}
